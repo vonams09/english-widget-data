@@ -1,8 +1,8 @@
 [
   {
-    "structure": "I want you to + V",
-    "english": "Break the ice",
-    "vietnamese": "Phá vỡ sự ngại ngùng"
+    "structure": "I'm busy + V-ing",
+    "english": "I'm busy doing my homework",
+    "vietnamese": "Tôi đang bận làm bài tập"
   },
   {
     "structure": "",
@@ -10,8 +10,40 @@
     "vietnamese": "Hiếm khi"
   },
   {
-    "structure": "Try to",
-    "english": "Keep in touch",
-    "vietnamese": "Giữ liên lạc"
+    "structure": "It's time to + V",
+    "english": "It's time to get your boarding pass",
+    "vietnamese": "Đã đến lúc nhận thẻ lên máy bay của bạn"
+  },
+  {
+    "structure": "It made me + V",
+    "english": "It made me feel anxious",
+    "vietnamese": "Nó làm tôi cảm thấy lo lắng"
+  },
+  {
+    "structure": "It means that + S + V",
+    "english": "It means that it's going to rain in the afternoon",
+    "vietnamese": "Có nghĩa là trời sẽ mưa vào buổi chiều"
+  },
+  {
+    "structure": "I prefer to + V",
+    "english": "I prefer to walk to work because I live near the office",
+    "vietnamese": "Tôi thích đi bộ đến chỗ làm hơn vì tôi sống ở gần văn phòng"
+  },
+  {
+    "structure": "I will help you + V",
+    "english": "I will help you pick up some milk and eggs",
+    "vietnamese": "Tôi sẽ lấy giúp bạn một ít sữa và trứng"
+  },
+  {
+    "structure": "I encourage you to + V",
+    "english": "I encourage you to join a yoga class in the mornings",
+    "vietnamese": "Tôi khuyến khích bạn tham gia một lớp yoga vào buổi sáng "
+  },
+  {
+    "structure": "I've decided to + V",
+    "english": "I've decided to change my lifestyle",
+    "vietnamese": "Tôi đã quyết định thay đổi lối sống của mình"
   }
+  
+
 ]
