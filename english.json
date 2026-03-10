@@ -43,7 +43,209 @@
     "structure": "I've decided to + V",
     "english": "I've decided to change my lifestyle",
     "vietnamese": "Tôi đã quyết định thay đổi lối sống của mình"
-  }
-  
+  },
+  {
+    "structure": "I'm busy + V-ing",
+    "english": "I'm busy preparing for the presentation tomorrow",
+    "vietnamese": "Tôi đang bận chuẩn bị cho bài thuyết trình ngày mai"
+  },
+  {
+    "structure": "It's (adj) + to + V",
+    "english": "It's important to keep your passwords secure",
+    "vietnamese": "Việc giữ bảo mật mật khẩu là rất quan trọng"
+  },
+  {
+    "structure": "There is no point in + V-ing",
+    "english": "There is no point in arguing with him",
+    "vietnamese": "Chẳng có ích gì khi tranh cãi với anh ta cả"
+  },
+  {
+    "structure": "S + find + it + adj + to V",
+    "english": "I find it difficult to concentrate in noisy places",
+    "vietnamese": "Tôi thấy khó tập trung ở những nơi ồn ào"
+  },
+  {
+    "structure": "Would you like me to + V?",
+    "english": "Would you like me to pick you up at the airport?",
+    "vietnamese": "Bạn có muốn tôi đón bạn ở sân bay không?"
+  },
+  {
+    "structure": "I used to + V",
+    "english": "I used to play soccer when I was a child",
+    "vietnamese": "Tôi từng chơi bóng đá khi còn là một đứa trẻ"
+  },
+  {
+    "structure": "I'm thinking of + V-ing",
+    "english": "I'm thinking of buying a new laptop next month",
+    "vietnamese": "Tôi đang tính đến chuyện mua một chiếc laptop mới vào tháng sau"
+  },
+  {
+    "structure": "How about + V-ing...?",
+    "english": "How about going out for dinner tonight?",
+    "vietnamese": "Hay là tối nay chúng ta đi ăn ngoài nhé?"
+  },
+  {
+    "structure": "I didn't mean to + V",
+    "english": "I didn't mean to hurt your feelings",
+    "vietnamese": "Tôi không cố ý làm tổn thương cảm xúc của bạn"
+  },
+  {
+    "structure": "I feel like + V-ing",
+    "english": "I feel like having a cup of coffee right now",
+    "vietnamese": "Tôi đang thấy thèm một tách cà phê ngay lúc này"
+  },
+  {
+    "structure": "I'll let you know + when/where...",
+    "english": "I'll let you know when I finish the task",
+    "vietnamese": "Tôi sẽ báo cho bạn biết khi nào tôi hoàn thành nhiệm vụ"
+  },
+  {
+    "structure": "Make sure that + S + V",
+    "english": "Make sure that you lock the door before leaving",
+    "vietnamese": "Hãy đảm bảo rằng bạn đã khóa cửa trước khi rời đi"
+  },
+  {
+    "structure": "I'm not sure if + S + V",
+    "english": "I'm not sure if he can come to the party",
+    "vietnamese": "Tôi không chắc liệu anh ấy có thể đến dự tiệc không"
+  },
+  {
+    "structure": "Can you show me how to + V?",
+    "english": "Can you show me how to use this machine?",
+    "vietnamese": "Bạn có thể chỉ cho tôi cách sử dụng chiếc máy này không?"
+  },
+  {
+    "structure": "It seems that + S + V",
+    "english": "It seems that they have lost their way",
+    "vietnamese": "Có vẻ như họ đã bị lạc đường rồi"
+  },
+  {
+    "structure": "I'm looking for + N",
+    "english": "I'm looking for a gift for my mother's birthday",
+    "vietnamese": "Tôi đang tìm một món quà cho sinh nhật của mẹ tôi"
+  },
+  {
+    "structure": "As far as I know, + S + V",
+    "english": "As far as I know, the meeting has been canceled",
+    "vietnamese": "Theo như tôi biết thì cuộc họp đã bị hủy"
+  },
+  {
+    "structure": "I'm not used to + V-ing",
+    "english": "I'm not used to waking up so early",
+    "vietnamese": "Tôi chưa quen với việc thức dậy sớm như thế này"
+  },
+  {
+    "structure": "S + suggest + V-ing",
+    "english": "She suggested taking a taxi to save time",
+    "vietnamese": "Cô ấy gợi ý đi taxi để tiết kiệm thời gian"
+  },
+  {
+    "structure": "Expect someone to + V",
+    "english": "I expect you to be on time for the interview",
+    "vietnamese": "Tôi mong đợi bạn sẽ đến đúng giờ cho buổi phỏng vấn"
+  },
+  {"structure":"I need to + V","english":"I need to finish my homework","vietnamese":"Tôi cần hoàn thành bài tập của mình"},
+  {"structure":"I want to + V","english":"I want to learn English","vietnamese":"Tôi muốn học tiếng Anh"},
+  {"structure":"I have to + V","english":"I have to wake up early","vietnamese":"Tôi phải dậy sớm"},
+  {"structure":"I'm going to + V","english":"I'm going to call my friend","vietnamese":"Tôi sẽ gọi cho bạn tôi"},
+  {"structure":"I forgot to + V","english":"I forgot to bring my keys","vietnamese":"Tôi quên mang chìa khóa"},
+  {"structure":"Don't forget to + V","english":"Don't forget to lock the door","vietnamese":"Đừng quên khóa cửa"},
+  {"structure":"I plan to + V","english":"I plan to travel next year","vietnamese":"Tôi dự định đi du lịch năm sau"},
+  {"structure":"I hope to + V","english":"I hope to see you soon","vietnamese":"Tôi hy vọng sớm gặp bạn"},
+  {"structure":"I'm trying to + V","english":"I'm trying to lose weight","vietnamese":"Tôi đang cố giảm cân"},
+  {"structure":"I decided to + V","english":"I decided to change my job","vietnamese":"Tôi quyết định đổi công việc"},
+  {"structure":"I prefer to + V","english":"I prefer to stay at home","vietnamese":"Tôi thích ở nhà hơn"},
+  {"structure":"I like to + V","english":"I like to read books","vietnamese":"Tôi thích đọc sách"},
+  {"structure":"I love to + V","english":"I love to travel","vietnamese":"Tôi thích đi du lịch"},
+  {"structure":"I hate to + V","english":"I hate to wait","vietnamese":"Tôi ghét phải chờ"},
+  {"structure":"I started to + V","english":"I started to learn guitar","vietnamese":"Tôi bắt đầu học guitar"},
+  {"structure":"I stopped to + V","english":"I stopped to drink water","vietnamese":"Tôi dừng lại để uống nước"},
+  {"structure":"I'm ready to + V","english":"I'm ready to leave","vietnamese":"Tôi sẵn sàng rời đi"},
+  {"structure":"I'm about to + V","english":"I'm about to go out","vietnamese":"Tôi sắp ra ngoài"},
+  {"structure":"Let me + V","english":"Let me help you","vietnamese":"Để tôi giúp bạn"},
+  {"structure":"Help me + V","english":"Help me carry this box","vietnamese":"Giúp tôi mang cái hộp này"},
+  {"structure":"Can you + V","english":"Can you open the window","vietnamese":"Bạn có thể mở cửa sổ không"},
+  {"structure":"Could you + V","english":"Could you repeat that","vietnamese":"Bạn có thể nói lại không"},
+  {"structure":"Would you + V","english":"Would you join us","vietnamese":"Bạn có muốn tham gia cùng chúng tôi không"},
+  {"structure":"Do you want to + V","english":"Do you want to eat","vietnamese":"Bạn có muốn ăn không"},
+  {"structure":"Do you like + V-ing","english":"Do you like swimming","vietnamese":"Bạn có thích bơi không"},
+  {"structure":"Are you going to + V","english":"Are you going to study tonight","vietnamese":"Bạn có định học tối nay không"},
+  {"structure":"What do you want to + V","english":"What do you want to eat","vietnamese":"Bạn muốn ăn gì"},
+  {"structure":"Where do you want to + V","english":"Where do you want to go","vietnamese":"Bạn muốn đi đâu"},
+  {"structure":"Why do you + V","english":"Why do you study English","vietnamese":"Tại sao bạn học tiếng Anh"},
+  {"structure":"How do you + V","english":"How do you cook this","vietnamese":"Bạn nấu món này như thế nào"},
+  {"structure":"There is","english":"There is a problem","vietnamese":"Có một vấn đề"},
+  {"structure":"There are","english":"There are many people here","vietnamese":"Có nhiều người ở đây"},
+  {"structure":"It is + adj + to + V","english":"It is difficult to learn English","vietnamese":"Học tiếng Anh thì khó"},
+  {"structure":"It takes + time + to + V","english":"It takes 30 minutes to get there","vietnamese":"Mất 30 phút để đến đó"},
+  {"structure":"It's time to + V","english":"It's time to go home","vietnamese":"Đã đến lúc về nhà"},
+  {"structure":"It's hard to + V","english":"It's hard to understand him","vietnamese":"Khó để hiểu anh ấy"},
+  {"structure":"It's easy to + V","english":"It's easy to learn","vietnamese":"Rất dễ học"},
+  {"structure":"I'm happy to + V","english":"I'm happy to see you","vietnamese":"Tôi vui khi gặp bạn"},
+  {"structure":"I'm sorry to + V","english":"I'm sorry to hear that","vietnamese":"Tôi rất tiếc khi nghe điều đó"},
+  {"structure":"I'm glad to + V","english":"I'm glad to help","vietnamese":"Tôi vui khi giúp"},
+  {"structure":"I think + S + V","english":"I think he is right","vietnamese":"Tôi nghĩ anh ấy đúng"},
+  {"structure":"I believe + S + V","english":"I believe you","vietnamese":"Tôi tin bạn"},
+  {"structure":"I guess + S + V","english":"I guess it's okay","vietnamese":"Tôi đoán là ổn"},
+  {"structure":"I feel + adj","english":"I feel tired","vietnamese":"Tôi cảm thấy mệt"},
+  {"structure":"I feel like + V-ing","english":"I feel like sleeping","vietnamese":"Tôi muốn ngủ"},
+  {"structure":"I'm interested in + V-ing","english":"I'm interested in learning languages","vietnamese":"Tôi hứng thú học ngôn ngữ"},
+  {"structure":"I'm good at + V-ing","english":"I'm good at drawing","vietnamese":"Tôi giỏi vẽ"},
+  {"structure":"I'm bad at + V-ing","english":"I'm bad at math","vietnamese":"Tôi dở toán"},
+  {"structure":"I'm used to + V-ing","english":"I'm used to waking up early","vietnamese":"Tôi quen dậy sớm"},
+  {"structure":"I used to + V","english":"I used to play football","vietnamese":"Tôi từng chơi bóng đá"},
+  {"structure":"I'm looking forward to + V-ing","english":"I'm looking forward to meeting you","vietnamese":"Tôi mong được gặp bạn"},
+  {"structure":"I agree with + someone","english":"I agree with you","vietnamese":"Tôi đồng ý với bạn"},
+  {"structure":"I disagree with + someone","english":"I disagree with him","vietnamese":"Tôi không đồng ý với anh ấy"},
+  {"structure":"I remember + V-ing","english":"I remember meeting her","vietnamese":"Tôi nhớ đã gặp cô ấy"},
+  {"structure":"I forgot + V-ing","english":"I forgot locking the door","vietnamese":"Tôi quên rằng mình đã khóa cửa"},
+  {"structure":"I'm afraid + S + V","english":"I'm afraid I can't come","vietnamese":"Tôi e là tôi không thể đến"},
+  {"structure":"That's why + S + V","english":"That's why I came early","vietnamese":"Đó là lý do tôi đến sớm"},
+  {"structure":"That's because + S + V","english":"That's because I was busy","vietnamese":"Đó là vì tôi bận"},
+  {"structure":"The best way to + V","english":"The best way to learn is practice","vietnamese":"Cách tốt nhất để học là luyện tập"},
+  {"structure":"The first thing to + V","english":"The first thing to do is relax","vietnamese":"Điều đầu tiên cần làm là thư giãn"},
+  {"structure":"I suggest + V-ing","english":"I suggest taking a break","vietnamese":"Tôi đề nghị nghỉ ngơi"},
+  {"structure":"Why don't we + V","english":"Why don't we go out","vietnamese":"Sao chúng ta không ra ngoài"},
+  {"structure":"Let's + V","english":"Let's start now","vietnamese":"Hãy bắt đầu ngay"},
+  {"structure":"Maybe we should + V","english":"Maybe we should leave","vietnamese":"Có lẽ chúng ta nên rời đi"},
+  {"structure":"You should + V","english":"You should rest","vietnamese":"Bạn nên nghỉ ngơi"},
+  {"structure":"You shouldn't + V","english":"You shouldn't worry","vietnamese":"Bạn không nên lo lắng"},
+  {"structure":"You must + V","english":"You must try this food","vietnamese":"Bạn phải thử món này"},
+  {"structure":"You don't have to + V","english":"You don't have to come","vietnamese":"Bạn không cần đến"},
+  {"structure":"I'm sure + S + V","english":"I'm sure he will come","vietnamese":"Tôi chắc anh ấy sẽ đến"},
+  {"structure":"I'm not sure + S + V","english":"I'm not sure it's correct","vietnamese":"Tôi không chắc nó đúng"},
+  {"structure":"It seems + adj","english":"It seems strange","vietnamese":"Nó có vẻ lạ"},
+  {"structure":"It looks like + S + V","english":"It looks like it's raining","vietnamese":"Có vẻ trời đang mưa"},
+  {"structure":"It sounds + adj","english":"It sounds interesting","vietnamese":"Nghe có vẻ thú vị"},
+  {"structure":"It feels + adj","english":"It feels cold","vietnamese":"Cảm thấy lạnh"},
+  {"structure":"I'm thinking about + V-ing","english":"I'm thinking about changing jobs","vietnamese":"Tôi đang nghĩ về việc đổi việc"},
+  {"structure":"I'm worried about + something","english":"I'm worried about the exam","vietnamese":"Tôi lo về kỳ thi"},
+  {"structure":"I'm proud of + someone","english":"I'm proud of you","vietnamese":"Tôi tự hào về bạn"},
+  {"structure":"I'm tired of + V-ing","english":"I'm tired of waiting","vietnamese":"Tôi chán việc chờ đợi"},
+  {"structure":"I'm afraid of + V-ing","english":"I'm afraid of flying","vietnamese":"Tôi sợ đi máy bay"},
+  {"structure":"What happened","english":"What happened yesterday","vietnamese":"Hôm qua chuyện gì xảy ra"},
+  {"structure":"What do you mean","english":"What do you mean by that","vietnamese":"Bạn có ý gì"},
+  {"structure":"What do you think","english":"What do you think about it","vietnamese":"Bạn nghĩ gì về nó"},
+  {"structure":"How about + V-ing","english":"How about going out","vietnamese":"Đi ra ngoài nhé"},
+  {"structure":"What about + V-ing","english":"What about eating now","vietnamese":"Ăn bây giờ thì sao"},
+  {"structure":"It's better to + V","english":"It's better to sleep early","vietnamese":"Ngủ sớm thì tốt hơn"},
+  {"structure":"It's important to + V","english":"It's important to practice","vietnamese":"Luyện tập rất quan trọng"},
+  {"structure":"It's necessary to + V","english":"It's necessary to study","vietnamese":"Học là cần thiết"},
+  {"structure":"I promise to + V","english":"I promise to help you","vietnamese":"Tôi hứa sẽ giúp bạn"},
+  {"structure":"I refuse to + V","english":"I refuse to do that","vietnamese":"Tôi từ chối làm điều đó"},
+  {"structure":"I offered to + V","english":"I offered to drive","vietnamese":"Tôi đã đề nghị lái xe"},
+  {"structure":"I managed to + V","english":"I managed to finish it","vietnamese":"Tôi đã xoay sở hoàn thành"},
+  {"structure":"I failed to + V","english":"I failed to pass the exam","vietnamese":"Tôi đã trượt kỳ thi"},
+  {"structure":"I managed to + V","english":"I managed to solve the problem","vietnamese":"Tôi đã giải quyết được vấn đề"},
+  {"structure":"I happened to + V","english":"I happened to meet him","vietnamese":"Tôi tình cờ gặp anh ấy"},
+  {"structure":"I tend to + V","english":"I tend to overthink","vietnamese":"Tôi hay suy nghĩ quá nhiều"},
+  {"structure":"I would like to + V","english":"I would like to order coffee","vietnamese":"Tôi muốn gọi cà phê"},
+  {"structure":"I'd rather + V","english":"I'd rather stay home","vietnamese":"Tôi thà ở nhà"},
+  {"structure":"I'd better + V","english":"I'd better leave now","vietnamese":"Tốt hơn tôi nên đi ngay"},
+  {"structure":"It's worth + V-ing","english":"It's worth trying","vietnamese":"Đáng để thử"},
+  {"structure":"There's no need to + V","english":"There's no need to hurry","vietnamese":"Không cần vội"},
+  {"structure":"There's no way + S + V","english":"There's no way he knows","vietnamese":"Không có cách nào anh ấy biết"},
+  {"structure":"The more + S + V","english":"The more you practice the better you get","vietnamese":"Bạn luyện càng nhiều càng giỏi"}
 
 ]
+
