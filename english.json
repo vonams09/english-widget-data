@@ -245,7 +245,458 @@
   {"structure":"It's worth + V-ing","english":"It's worth trying","vietnamese":"Đáng để thử"},
   {"structure":"There's no need to + V","english":"There's no need to hurry","vietnamese":"Không cần vội"},
   {"structure":"There's no way + S + V","english":"There's no way he knows","vietnamese":"Không có cách nào anh ấy biết"},
-  {"structure":"The more + S + V","english":"The more you practice the better you get","vietnamese":"Bạn luyện càng nhiều càng giỏi"}
+  {"structure":"The more + S + V","english":"The more you practice the better you get","vietnamese":"Bạn luyện càng nhiều càng giỏi"},
+  {
+    "structure": "S + be + about to + V",
+    "english": "I'm about to go out",
+    "vietnamese": "Tôi chuẩn bị đi ra ngoài đây"
+  },
+  {
+    "structure": "S + be + about to + V",
+    "english": "The movie is about to start",
+    "vietnamese": "Bộ phim sắp bắt đầu rồi"
+  },
+  {
+    "structure": "S + be + about to + V",
+    "english": "I was about to call you when you arrived",
+    "vietnamese": "Tôi vừa mới định gọi cho bạn thì bạn đến (Dùng 'was' cho dự định trong quá khứ)"
+  },
+  {
+    "structure": "S + be + about to + V",
+    "english": "Be quiet! The baby is about to wake up",
+    "vietnamese": "Khẽ thôi! Đứa bé sắp thức giấc rồi đấy"
+  },
+  {
+    "structure": "I'm about to + V",
+    "english": "I'm about to leave for the airport",
+    "vietnamese": "Tôi chuẩn bị rời đi ra sân bay đây"
+  },
+  {
+    "structure": "I'm afraid that + S + V",
+    "english": "I'm afraid that I can't attend the meeting",
+    "vietnamese": "Tôi e rằng mình không thể tham dự cuộc họp"
+  },
+  {
+    "structure": "I'm capable of + V-ing",
+    "english": "I'm capable of handling this project alone",
+    "vietnamese": "Tôi có khả năng tự mình xử lý dự án này"
+  },
+  {
+    "structure": "I'm getting + adj",
+    "english": "I'm getting better at speaking English",
+    "vietnamese": "Tôi đang dần nói tiếng Anh tốt hơn"
+  },
+  {
+    "structure": "I'm in the mood for + N/V-ing",
+    "english": "I'm in the mood for a movie tonight",
+    "vietnamese": "Tôi đang có hứng xem phim tối nay"
+  },
+  {
+    "structure": "I'm looking forward to + V-ing",
+    "english": "I'm looking forward to meeting you in person",
+    "vietnamese": "Tôi rất mong được gặp trực tiếp bạn"
+  },
+  {
+    "structure": "I'm not used to + V-ing",
+    "english": "I'm not used to working under pressure",
+    "vietnamese": "Tôi chưa quen với việc làm việc dưới áp lực"
+  },
+  {
+    "structure": "I'm worried about + N/V-ing",
+    "english": "I'm worried about the upcoming exam",
+    "vietnamese": "Tôi lo lắng về kỳ thi sắp tới"
+  },
+  {
+    "structure": "I've been + V-ing",
+    "english": "I've been working here for five years",
+    "vietnamese": "Tôi đã và đang làm việc ở đây được 5 năm rồi"
+  },
+  {
+    "structure": "I've heard that + S + V",
+    "english": "I've heard that you got a promotion",
+    "vietnamese": "Tôi nghe nói là bạn vừa được thăng chức"
+  },
+  {
+    "structure": "I'd rather + V (bare) + than + V (bare)",
+    "english": "I'd rather stay home than go to the party",
+    "vietnamese": "Tôi thà ở nhà còn hơn là đi dự tiệc"
+  },
+  {
+    "structure": "It's no use + V-ing",
+    "english": "It's no use complaining about the weather",
+    "vietnamese": "Thật vô ích khi cứ phàn nàn về thời tiết"
+  },
+  {
+    "structure": "It's worth + V-ing",
+    "english": "It's worth trying one more time",
+    "vietnamese": "Rất đáng để thử lại một lần nữa"
+  },
+  {
+    "structure": "It takes (me) + time + to V",
+    "english": "It takes me an hour to cook dinner",
+    "vietnamese": "Tôi mất một tiếng để nấu bữa tối"
+  },
+  {
+    "structure": "It seems to me that + S + V",
+    "english": "It seems to me that he is telling the truth",
+    "vietnamese": "Đối với tôi có vẻ như anh ấy đang nói thật"
+  },
+  {
+    "structure": "It's kind of you to + V",
+    "english": "It's kind of you to help me with the luggage",
+    "vietnamese": "Bạn thật tốt bụng khi giúp tôi mang hành lý"
+  },
+  {
+    "structure": "It's likely that + S + V",
+    "english": "It's likely that it will rain tonight",
+    "vietnamese": "Có khả năng là đêm nay trời sẽ mưa"
+  },
+  {
+    "structure": "Make sure that + S + V",
+    "english": "Make sure that you turn off the lights",
+    "vietnamese": "Hãy chắc chắn rằng bạn đã tắt đèn"
+  },
+  {
+    "structure": "No matter how + adj + S + V",
+    "english": "No matter how hard I try, I can't solve it",
+    "vietnamese": "Dù tôi có cố gắng thế nào, tôi vẫn không giải được"
+  },
+  {
+    "structure": "Not only... but also...",
+    "english": "She is not only beautiful but also intelligent",
+    "vietnamese": "Cô ấy không chỉ xinh đẹp mà còn thông minh"
+  },
+  {
+    "structure": "S + avoid + V-ing",
+    "english": "You should avoid eating too much sugar",
+    "vietnamese": "Bạn nên tránh ăn quá nhiều đường"
+  },
+  {
+    "structure": "S + can't help + V-ing",
+    "english": "I can't help laughing at his jokes",
+    "vietnamese": "Tôi không thể nhịn cười trước những câu đùa của anh ấy"
+  },
+  {
+    "structure": "S + can't stand + V-ing",
+    "english": "I can't stand waiting in long lines",
+    "vietnamese": "Tôi không thể chịu nổi việc phải chờ đợi xếp hàng dài"
+  },
+  {
+    "structure": "S + decide + to V",
+    "english": "We decided to move to a bigger house",
+    "vietnamese": "Chúng tôi đã quyết định chuyển đến một căn nhà lớn hơn"
+  },
+  {
+    "structure": "S + enjoy + V-ing",
+    "english": "I enjoy listening to music while working",
+    "vietnamese": "Tôi thích nghe nhạc khi đang làm việc"
+  },
+  {
+    "structure": "S + feel like + V-ing",
+    "english": "I feel like going for a walk",
+    "vietnamese": "Tôi đang muốn đi dạo một chút"
+  },
+  {
+    "structure": "S + find it + adj + to V",
+    "english": "I find it easy to learn new languages",
+    "vietnamese": "Tôi thấy việc học ngôn ngữ mới khá dễ dàng"
+  },
+  {
+    "structure": "S + finish + V-ing",
+    "english": "Have you finished reading that book yet?",
+    "vietnamese": "Bạn đã đọc xong cuốn sách đó chưa?"
+  },
+  {
+    "structure": "S + happen + to V",
+    "english": "I happened to see him at the mall",
+    "vietnamese": "Tôi tình cờ gặp anh ấy ở trung tâm thương mại"
+  },
+  {
+    "structure": "S + keep + V-ing",
+    "english": "He kept talking despite my silence",
+    "vietnamese": "Anh ta cứ tiếp tục nói bất chấp sự im lặng của tôi"
+  },
+  {
+    "structure": "S + look + adj",
+    "english": "You look tired today",
+    "vietnamese": "Hôm nay trông bạn có vẻ mệt mỏi"
+  },
+  {
+    "structure": "S + manage + to V",
+    "english": "I managed to catch the last train",
+    "vietnamese": "Tôi đã xoay xở để kịp chuyến tàu cuối cùng"
+  },
+  {
+    "structure": "S + mind + V-ing",
+    "english": "Do you mind opening the door?",
+    "vietnamese": "Bạn có phiền mở giúp cái cửa không?"
+  },
+  {
+    "structure": "S + offer + to V",
+    "english": "He offered to drive me home",
+    "vietnamese": "Anh ấy đã ngỏ ý chở tôi về nhà"
+  },
+  {
+    "structure": "S + pretend + to V",
+    "english": "She pretended to be asleep",
+    "vietnamese": "Cô ấy giả vờ như đang ngủ"
+  },
+  {
+    "structure": "S + promise + to V",
+    "english": "I promise to call you later",
+    "vietnamese": "Tôi hứa sẽ gọi cho bạn sau"
+  },
+  {
+    "structure": "S + refuse + to V",
+    "english": "He refused to answer my questions",
+    "vietnamese": "Anh ta từ chối trả lời các câu hỏi của tôi"
+  },
+  {
+    "structure": "S + regret + V-ing",
+    "english": "I regret buying this cheap phone",
+    "vietnamese": "Tôi hối hận vì đã mua chiếc điện thoại rẻ tiền này"
+  },
+  {
+    "structure": "S + seem + to V",
+    "english": "They seem to be very happy together",
+    "vietnamese": "Họ có vẻ đang rất hạnh phúc bên nhau"
+  },
+  {
+    "structure": "S + spend + time + V-ing",
+    "english": "I spend most of my time reading",
+    "vietnamese": "Tôi dành phần lớn thời gian để đọc sách"
+  },
+  {
+    "structure": "S + stop + V-ing",
+    "english": "Please stop making that noise",
+    "vietnamese": "Làm ơn hãy ngừng làm ồn đi"
+  },
+  {
+    "structure": "S + suggest + V-ing",
+    "english": "I suggest taking a break",
+    "vietnamese": "Tôi đề nghị chúng ta nên nghỉ ngơi một chút"
+  },
+  {
+    "structure": "S + used to + V",
+    "english": "I used to live in a small village",
+    "vietnamese": "Tôi từng sống ở một ngôi làng nhỏ"
+  },
+  {
+    "structure": "S + want someone + to V",
+    "english": "I want you to tell me the truth",
+    "vietnamese": "Tôi muốn bạn nói cho tôi sự thật"
+  },
+  {
+    "structure": "Thank you for + V-ing",
+    "english": "Thank you for helping me",
+    "vietnamese": "Cảm ơn bạn vì đã giúp đỡ tôi"
+  },
+  {
+    "structure": "There's no need to + V",
+    "english": "There's no need to worry about it",
+    "vietnamese": "Không việc gì phải lo lắng về điều đó cả"
+  },
+  {
+    "structure": "Too + adj + to V",
+    "english": "The coffee is too hot to drink",
+    "vietnamese": "Cà phê quá nóng để có thể uống"
+  },
+  {
+    "structure": "Unless + S + V",
+    "english": "I won't go unless you come with me",
+    "vietnamese": "Tôi sẽ không đi trừ khi bạn đi cùng tôi"
+  },
+  {
+    "structure": "What about + V-ing...?",
+    "english": "What about going to the beach this weekend?",
+    "vietnamese": "Cuối tuần này đi biển thì sao nhỉ?"
+  },
+  {
+    "structure": "Would you like + to V?",
+    "english": "Would you like to join us for dinner?",
+    "vietnamese": "Bạn có muốn dùng bữa tối cùng chúng tôi không?"
+  },
+    {
+    "structure": "end up + V-ing",
+    "english": "We ended up staying home because it rained",
+    "vietnamese": "Cuối cùng chúng tôi đã ở nhà vì trời mưa"
+  },
+  {
+    "structure": "turn out (that) + S + V",
+    "english": "It turned out that he was right",
+    "vietnamese": "Hóa ra anh ấy đã đúng"
+  },
+  {
+    "structure": "work out",
+    "english": "Everything will work out in the end",
+    "vietnamese": "Cuối cùng mọi thứ sẽ ổn thôi"
+  },
+  {
+    "structure": "figure out + something",
+    "english": "I can't figure out this problem",
+    "vietnamese": "Tôi không thể giải được vấn đề này"
+  },
+  {
+    "structure": "find out + something",
+    "english": "I just found out the truth",
+    "vietnamese": "Tôi vừa phát hiện ra sự thật"
+  },
+  {
+    "structure": "come up with + idea",
+    "english": "She came up with a great idea",
+    "vietnamese": "Cô ấy nghĩ ra một ý tưởng tuyệt vời"
+  },
+  {
+    "structure": "be supposed to + V",
+    "english": "You are supposed to finish this today",
+    "vietnamese": "Bạn được mong đợi phải hoàn thành việc này hôm nay"
+  },
+  {
+    "structure": "be likely to + V",
+    "english": "It is likely to rain tonight",
+    "vietnamese": "Có khả năng tối nay sẽ mưa"
+  },
+  {
+    "structure": "be about to + V",
+    "english": "The movie is about to start",
+    "vietnamese": "Bộ phim sắp bắt đầu"
+  },
+  {
+    "structure": "be meant to + V",
+    "english": "This tool is meant to help beginners",
+    "vietnamese": "Công cụ này được tạo ra để giúp người mới"
+  },
+  {
+    "structure": "no matter + wh-",
+    "english": "No matter what happens, stay calm",
+    "vietnamese": "Dù chuyện gì xảy ra, hãy bình tĩnh"
+  },
+  {
+    "structure": "as soon as + S + V",
+    "english": "Call me as soon as you arrive",
+    "vietnamese": "Gọi cho tôi ngay khi bạn đến"
+  },
+  {
+    "structure": "as long as + S + V",
+    "english": "You can stay as long as you want",
+    "vietnamese": "Bạn có thể ở lại bao lâu tùy thích"
+  },
+  {
+    "structure": "even though + S + V",
+    "english": "Even though it was late, we kept working",
+    "vietnamese": "Mặc dù đã muộn nhưng chúng tôi vẫn làm việc"
+  },
+  {
+    "structure": "so that + S + can",
+    "english": "Speak clearly so that everyone can hear",
+    "vietnamese": "Hãy nói rõ để mọi người có thể nghe"
+  },
+  {
+    "structure": "not only ... but also",
+    "english": "He is not only smart but also hardworking",
+    "vietnamese": "Anh ấy không chỉ thông minh mà còn chăm chỉ"
+  },
+  {
+    "structure": "the moment + S + V",
+    "english": "Call me the moment you arrive",
+    "vietnamese": "Gọi cho tôi ngay khi bạn đến"
+  },
+  {
+    "structure": "by the time + S + V",
+    "english": "By the time I arrived, the meeting had started",
+    "vietnamese": "Khi tôi đến thì cuộc họp đã bắt đầu"
+  },
+  {
+    "structure": "in case + S + V",
+    "english": "Take an umbrella in case it rains",
+    "vietnamese": "Mang ô phòng khi trời mưa"
+  },
+  {
+    "structure": "in order to + V",
+    "english": "She studied hard in order to pass the exam",
+    "vietnamese": "Cô ấy học chăm để đậu kỳ thi"
+  },
+  {
+    "structure": "be tired of + V-ing",
+    "english": "I'm tired of waiting",
+    "vietnamese": "Tôi chán việc chờ đợi"
+  },
+  {
+    "structure": "be sick of + V-ing",
+    "english": "I'm sick of hearing excuses",
+    "vietnamese": "Tôi chán nghe những lời biện hộ"
+  },
+  {
+    "structure": "be good for + something",
+    "english": "Walking is good for your health",
+    "vietnamese": "Đi bộ tốt cho sức khỏe"
+  },
+  {
+    "structure": "be responsible for + something",
+    "english": "She is responsible for this project",
+    "vietnamese": "Cô ấy chịu trách nhiệm cho dự án này"
+  },
+  {
+    "structure": "pay attention to + something",
+    "english": "Please pay attention to the instructions",
+    "vietnamese": "Hãy chú ý đến hướng dẫn"
+  },
+  {
+    "structure": "take care of + someone",
+    "english": "She takes care of her younger brother",
+    "vietnamese": "Cô ấy chăm sóc em trai mình"
+  },
+  {
+    "structure": "look forward to + V-ing",
+    "english": "I look forward to seeing you again",
+    "vietnamese": "Tôi mong được gặp lại bạn"
+  },
+  {
+    "structure": "run out of + something",
+    "english": "We ran out of time",
+    "vietnamese": "Chúng tôi đã hết thời gian"
+  },
+  {
+    "structure": "get used to + V-ing",
+    "english": "You will get used to waking up early",
+    "vietnamese": "Bạn sẽ quen với việc dậy sớm"
+  },
+  {
+    "structure": "be used to + V-ing",
+    "english": "I am used to working at night",
+    "vietnamese": "Tôi quen làm việc ban đêm"
+  },
+  {
+    "structure": "used to + V",
+    "english": "I used to live in Hanoi",
+    "vietnamese": "Tôi từng sống ở Hà Nội"
+  },
+  {
+    "structure": "make up one's mind to + V",
+    "english": "She made up her mind to quit",
+    "vietnamese": "Cô ấy đã quyết định nghỉ việc"
+  },
+  {
+    "structure": "have trouble + V-ing",
+    "english": "I have trouble understanding him",
+    "vietnamese": "Tôi gặp khó khăn khi hiểu anh ấy"
+  },
+  {
+    "structure": "be capable of + V-ing",
+    "english": "He is capable of solving the problem",
+    "vietnamese": "Anh ấy có khả năng giải quyết vấn đề"
+  },
+  {
+    "structure": "there's a chance + S + V",
+    "english": "There's a chance we might win",
+    "vietnamese": "Có khả năng chúng ta sẽ thắng"
+  },
+  {
+    "structure": "I can't help + V-ing",
+    "english": "I can't help laughing",
+    "vietnamese": "Tôi không thể nhịn cười"
+  }
 
 ]
+
 
