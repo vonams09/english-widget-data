@@ -1,5 +1,195 @@
 [
   {
+    "structure": "It seems + (that) + clause",
+    "english": "It seems that they are having a good time.",
+    "vietnamese": "Có vẻ như họ đang có một khoảng thời gian vui vẻ."
+  },
+  {
+    "structure": "It looks like + clause/noun",
+    "english": "It looks like it's going to rain.",
+    "vietnamese": "Trông có vẻ như trời sắp mưa rồi."
+  },
+  {
+    "structure": "I feel like + V-ing",
+    "english": "I feel like having a cup of coffee right now.",
+    "vietnamese": "Tôi đang thấy muốn uống một tách cà phê ngay lúc này."
+  },
+  {
+    "structure": "It sounds + adj",
+    "english": "That sounds like a great idea!",
+    "vietnamese": "Nghe có vẻ là một ý tưởng tuyệt vời đấy!"
+  },
+  {
+    "structure": "I'm used to + V-ing",
+    "english": "I'm used to staying up late for work.",
+    "vietnamese": "Tôi đã quen với việc thức khuya để làm việc rồi."
+  },
+  {
+    "structure": "I'm looking forward to + V-ing",
+    "english": "I'm looking forward to hearing from you.",
+    "vietnamese": "Tôi rất mong đợi được phản hồi từ bạn."
+  },
+  {
+    "structure": "It’s no use + V-ing",
+    "english": "It’s no use crying over spilt milk.",
+    "vietnamese": "Thật vô ích khi cứ nuối tiếc những gì đã qua."
+  },
+  {
+    "structure": "I have trouble + V-ing",
+    "english": "I have trouble understanding his accent.",
+    "vietnamese": "Tôi gặp khó khăn trong việc hiểu giọng của anh ấy."
+  },
+  {
+    "structure": "Would you mind + V-ing...?",
+    "english": "Would you mind opening the window?",
+    "vietnamese": "Bạn có phiền mở giúp tôi cái cửa sổ không?"
+  },
+  {
+    "structure": "I'm thinking of + V-ing",
+    "english": "I'm thinking of buying a new laptop.",
+    "vietnamese": "Tôi đang tính đến việc mua một chiếc laptop mới."
+  },
+  {
+    "structure": "As far as I'm concerned, + clause",
+    "english": "As far as I'm concerned, this is the best solution.",
+    "vietnamese": "Theo như tôi thấy thì đây là giải pháp tốt nhất."
+  },
+  {
+    "structure": "It’s worth + V-ing",
+    "english": "This movie is worth watching multiple times.",
+    "vietnamese": "Bộ phim này rất đáng để xem lại nhiều lần."
+  },
+  {
+    "structure": "I'm about to + Verb",
+    "english": "I'm about to leave for dinner.",
+    "vietnamese": "Tôi chuẩn bị đi ăn tối đây."
+  },
+  {
+    "structure": "Make sure + clause",
+    "english": "Make sure you lock the door before leaving.",
+    "vietnamese": "Hãy đảm bảo là bạn đã khóa cửa trước khi đi nhé."
+  },
+  {
+    "structure": "There is no point in + V-ing",
+    "english": "There is no point in arguing with him.",
+    "vietnamese": "Chẳng ích gì khi tranh cãi với anh ta đâu."
+  },
+  {
+    "structure": "I happen to + Verb",
+    "english": "I happen to know where she lives.",
+    "vietnamese": "Tôi tình cờ biết cô ấy sống ở đâu."
+  },
+  {
+    "structure": "It turns out that + clause",
+    "english": "It turns out that we were wrong.",
+    "vietnamese": "Hóa ra là chúng ta đã sai."
+  },
+  {
+    "structure": "In terms of + Noun",
+    "english": "In terms of price, this one is better.",
+    "vietnamese": "Xét về mặt giá cả thì cái này tốt hơn."
+  },
+  {
+    "structure": "It seems like + S + V",
+    "english": "It seems like he is tired",
+    "vietnamese": "Có vẻ như anh ấy mệt"
+  },
+  {
+    "structure": "It looks like + S + V",
+    "english": "It looks like it's going to rain",
+    "vietnamese": "Có vẻ như trời sắp mưa"
+  },
+  {
+    "structure": "I think + S + V",
+    "english": "I think she is right",
+    "vietnamese": "Tôi nghĩ cô ấy đúng"
+  },
+  {
+    "structure": "I guess + S + V",
+    "english": "I guess he forgot",
+    "vietnamese": "Tôi đoán anh ấy quên rồi"
+  },
+  {
+    "structure": "Maybe + S + V",
+    "english": "Maybe he is at home",
+    "vietnamese": "Có thể anh ấy ở nhà"
+  },
+  {
+    "structure": "Probably + S + V",
+    "english": "He probably knows the answer",
+    "vietnamese": "Có lẽ anh ấy biết câu trả lời"
+  },
+  {
+    "structure": "S + might + V",
+    "english": "She might come later",
+    "vietnamese": "Cô ấy có thể đến sau"
+  },
+  {
+    "structure": "S + could be + adj/noun",
+    "english": "It could be a mistake",
+    "vietnamese": "Đó có thể là một sai lầm"
+  },
+  {
+    "structure": "I feel like + S + V",
+    "english": "I feel like he doesn't care",
+    "vietnamese": "Tôi cảm thấy anh ấy không quan tâm"
+  },
+  {
+    "structure": "It feels like + S + V",
+    "english": "It feels like something is wrong",
+    "vietnamese": "Cảm giác như có gì đó không ổn"
+  },
+  {
+    "structure": "To be honest, + S + V",
+    "english": "To be honest, I don't like it",
+    "vietnamese": "Nói thật là tôi không thích nó"
+  },
+  {
+    "structure": "Honestly, + S + V",
+    "english": "Honestly, this is boring",
+    "vietnamese": "Thật lòng mà nói, cái này chán"
+  },
+  {
+    "structure": "S + is a bit + adj",
+    "english": "This is a bit expensive",
+    "vietnamese": "Cái này hơi đắt"
+  },
+  {
+    "structure": "S + is a little + adj",
+    "english": "I'm a little tired",
+    "vietnamese": "Tôi hơi mệt"
+  },
+  {
+    "structure": "S + is kind of + adj",
+    "english": "This movie is kind of interesting",
+    "vietnamese": "Bộ phim này khá thú vị"
+  },
+  {
+    "structure": "S + is not really + adj",
+    "english": "I'm not really hungry",
+    "vietnamese": "Tôi không thực sự đói"
+  },
+  {
+    "structure": "I'm not sure but + S + V",
+    "english": "I'm not sure but he is busy",
+    "vietnamese": "Tôi không chắc nhưng có vẻ anh ấy bận"
+  },
+  {
+    "structure": "I could be wrong but + S + V",
+    "english": "I could be wrong but this is correct",
+    "vietnamese": "Có thể tôi sai nhưng cái này đúng"
+  },
+  {
+    "structure": "As far as I know, + S + V",
+    "english": "As far as I know, she lives here",
+    "vietnamese": "Theo như tôi biết, cô ấy sống ở đây"
+  },
+  {
+    "structure": "From what I see, + S + V",
+    "english": "From what I see, this works well",
+    "vietnamese": "Theo những gì tôi thấy, cái này hoạt động tốt"
+  },
+  {
     "structure": "I'm busy + V-ing",
     "english": "I'm busy doing my homework",
     "vietnamese": "Tôi đang bận làm bài tập"
@@ -695,8 +885,107 @@
     "structure": "I can't help + V-ing",
     "english": "I can't help laughing",
     "vietnamese": "Tôi không thể nhịn cười"
+  },
+  {
+    "structure": "It sounds like + S + V",
+    "english": "It sounds like he is angry",
+    "vietnamese": "Nghe có vẻ như anh ấy đang tức giận"
+  },
+  {
+    "structure": "It appears that + S + V",
+    "english": "It appears that she is busy",
+    "vietnamese": "Có vẻ như cô ấy bận"
+  },
+  {
+    "structure": "There's a chance + S + V",
+    "english": "There's a chance he will come",
+    "vietnamese": "Có khả năng anh ấy sẽ đến"
+  },
+  {
+    "structure": "I suppose + S + V",
+    "english": "I suppose it's fine",
+    "vietnamese": "Tôi cho là ổn"
+  },
+  {
+    "structure": "I believe + S + V",
+    "english": "I believe he is telling the truth",
+    "vietnamese": "Tôi tin là anh ấy đang nói thật"
+  },
+  {
+    "structure": "I’m pretty sure + S + V",
+    "english": "I’m pretty sure she knows",
+    "vietnamese": "Tôi khá chắc là cô ấy biết"
+  },
+  {
+    "structure": "I’m not really + adj",
+    "english": "I’m not really interested",
+    "vietnamese": "Tôi không thực sự hứng thú"
+  },
+  {
+    "structure": "S + seems to + V",
+    "english": "He seems to understand",
+    "vietnamese": "Anh ấy có vẻ hiểu"
+  },
+  {
+    "structure": "S + tends to + V",
+    "english": "He tends to forget things",
+    "vietnamese": "Anh ấy có xu hướng hay quên"
+  },
+  {
+    "structure": "S + is likely to + V",
+    "english": "She is likely to win",
+    "vietnamese": "Cô ấy có khả năng sẽ thắng"
+  },
+  {
+    "structure": "S + is unlikely to + V",
+    "english": "He is unlikely to come",
+    "vietnamese": "Anh ấy khó có khả năng đến"
+  },
+  {
+    "structure": "Basically, + S + V",
+    "english": "Basically, we need more time",
+    "vietnamese": "Nói chung là chúng ta cần thêm thời gian"
+  },
+  {
+    "structure": "Actually, + S + V",
+    "english": "Actually, I don't agree",
+    "vietnamese": "Thực ra tôi không đồng ý"
+  },
+  {
+    "structure": "In general, + S + V",
+    "english": "In general, it's a good idea",
+    "vietnamese": "Nhìn chung thì đó là ý tưởng tốt"
+  },
+  {
+    "structure": "For some reason, + S + V",
+    "english": "For some reason, he left early",
+    "vietnamese": "Vì lý do nào đó anh ấy rời đi sớm"
+  },
+  {
+    "structure": "At least + S + V",
+    "english": "At least we tried",
+    "vietnamese": "Ít nhất chúng ta đã thử"
+  },
+  {
+    "structure": "S + is supposed to + V",
+    "english": "He is supposed to be here",
+    "vietnamese": "Anh ấy lẽ ra phải ở đây"
+  },
+  {
+    "structure": "S + is about to + V",
+    "english": "She is about to leave",
+    "vietnamese": "Cô ấy sắp rời đi"
+  },
+  {
+    "structure": "S + ended up + V-ing",
+    "english": "I ended up staying home",
+    "vietnamese": "Cuối cùng tôi lại ở nhà"
+  },
+  {
+    "structure": "S + turns out + S + V",
+    "english": "It turns out he was right",
+    "vietnamese": "Hóa ra anh ấy đúng"
   }
-
 ]
 
 
